@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/hidden-joys-build/precache-manifest.d266dbf2cfb573fdf631e1b8b58199e7.js"
+  "https://clinturbin.github.io/hidden-joys-build/precache-manifest.e350c1bd51a424a758afea5307fef1d9.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/hidden-joys-build/index.html", {
+workbox.routing.registerNavigationRoute("https://clinturbin.github.io/hidden-joys-build/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
