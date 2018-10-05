@@ -1,11 +1,13 @@
 {
-  "main.js": "https://clinturbin.github.io/hidden-joys-build/static/js/main.ff56db10.chunk.js",
-  "main.js.map": "https://clinturbin.github.io/hidden-joys-build/static/js/main.ff56db10.chunk.js.map",
-  "static/js/1.cc8f4cdc.chunk.js": "https://clinturbin.github.io/hidden-joys-build/static/js/1.cc8f4cdc.chunk.js",
-  "static/js/1.cc8f4cdc.chunk.js.map": "https://clinturbin.github.io/hidden-joys-build/static/js/1.cc8f4cdc.chunk.js.map",
-  "runtime~main.js": "https://clinturbin.github.io/hidden-joys-build/static/js/runtime~main.2f86b972.js",
-  "runtime~main.js.map": "https://clinturbin.github.io/hidden-joys-build/static/js/runtime~main.2f86b972.js.map",
-  "index.html": "https://clinturbin.github.io/hidden-joys-build/index.html",
-  "precache-manifest.e350c1bd51a424a758afea5307fef1d9.js": "https://clinturbin.github.io/hidden-joys-build/precache-manifest.e350c1bd51a424a758afea5307fef1d9.js",
-  "service-worker.js": "https://clinturbin.github.io/hidden-joys-build/service-worker.js"
+  "main.css": "/hidden-joys-build/static/css/main.d5f5924b.chunk.css",
+  "main.js": "/hidden-joys-build/static/js/main.1b6aaa1d.chunk.js",
+  "main.js.map": "/hidden-joys-build/static/js/main.1b6aaa1d.chunk.js.map",
+  "static/js/1.1c9e4b10.chunk.js": "/hidden-joys-build/static/js/1.1c9e4b10.chunk.js",
+  "static/js/1.1c9e4b10.chunk.js.map": "/hidden-joys-build/static/js/1.1c9e4b10.chunk.js.map",
+  "runtime~main.js": "/hidden-joys-build/static/js/runtime~main.e3d9a135.js",
+  "runtime~main.js.map": "/hidden-joys-build/static/js/runtime~main.e3d9a135.js.map",
+  "static/css/main.d5f5924b.chunk.css.map": "/hidden-joys-build/static/css/main.d5f5924b.chunk.css.map",
+  "index.html": "/hidden-joys-build/index.html",
+  "precache-manifest.5154c4ea034dde0b1c92143b45c6f9c0.js": "/hidden-joys-build/precache-manifest.5154c4ea034dde0b1c92143b45c6f9c0.js",
+  "service-worker.js": "/hidden-joys-build/service-worker.js"
 }
