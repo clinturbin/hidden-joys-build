@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/hidden-joys-build/precache-manifest.2851fc9c3de0d6484a1a7e2be0b06139.js"
+  "/hidden-joys-build/precache-manifest.03c4c6eedfbf8148bacb464a3b691046.js"
 );
 
 workbox.clientsClaim();
