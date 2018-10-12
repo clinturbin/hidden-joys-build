@@ -7,6 +7,7 @@ html, body {
     --main-text-font: 'Lato', sans-serif;
     --dark-button-color: rgb(255, 149, 11);
     --light-button-color: papayawhip;
+    --box-shadow: 0 2px 6px rgba(255, 149, 11, 0.5);
 }
 * {
     box-sizing: border-box;
@@ -40,19 +41,22 @@ html, body {
     height: 7%;
 }
 
-.nav-item {
-    margin-left: 0.3em;
+.logo {
+    margin-left: 0.5em;
+}
+
+.header-navigation-item {
     text-decoration: none;
     font-weight: bold;
     color: black;
     font-family: var(--main-text-font);
 }
 
-.nav-item:hover {
+.header-navigation-item:hover, .logo:hover {
     color: var(--dark-button-color);
 }
 
-.nav-item:visited {
+.header-navigation-item:visited, .logo:visited {
     color: black;
 }
 
@@ -95,7 +99,6 @@ html, body {
     height: 81%;
     width: 100%;
     margin: 0;
-    /* overflow-y: scroll; */
 }
 
 @media(min-width: 768px) {
