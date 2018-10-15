@@ -1,13 +1,13 @@
 {
-  "main.css": "/hidden-joys-build/static/css/main.8f694c38.chunk.css",
-  "main.js": "/hidden-joys-build/static/js/main.79252492.chunk.js",
-  "main.js.map": "/hidden-joys-build/static/js/main.79252492.chunk.js.map",
-  "static/js/1.bd0091ae.chunk.js": "/hidden-joys-build/static/js/1.bd0091ae.chunk.js",
-  "static/js/1.bd0091ae.chunk.js.map": "/hidden-joys-build/static/js/1.bd0091ae.chunk.js.map",
-  "runtime~main.js": "/hidden-joys-build/static/js/runtime~main.e3d9a135.js",
-  "runtime~main.js.map": "/hidden-joys-build/static/js/runtime~main.e3d9a135.js.map",
-  "static/css/main.8f694c38.chunk.css.map": "/hidden-joys-build/static/css/main.8f694c38.chunk.css.map",
-  "index.html": "/hidden-joys-build/index.html",
-  "precache-manifest.df6f931a1e69de8c90ee90f4770694d7.js": "/hidden-joys-build/precache-manifest.df6f931a1e69de8c90ee90f4770694d7.js",
-  "service-worker.js": "/hidden-joys-build/service-worker.js"
+  "main.css": "/static/css/main.8f694c38.chunk.css",
+  "main.js": "/static/js/main.79252492.chunk.js",
+  "main.js.map": "/static/js/main.79252492.chunk.js.map",
+  "static/js/1.bd0091ae.chunk.js": "/static/js/1.bd0091ae.chunk.js",
+  "static/js/1.bd0091ae.chunk.js.map": "/static/js/1.bd0091ae.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.8f694c38.chunk.css.map": "/static/css/main.8f694c38.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.7de4e52a0015e24f5df6d7ddf1bf22b9.js": "/precache-manifest.7de4e52a0015e24f5df6d7ddf1bf22b9.js",
+  "service-worker.js": "/service-worker.js"
 }
