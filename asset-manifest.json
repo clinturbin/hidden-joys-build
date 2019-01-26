@@ -1,13 +1,14 @@
 {
-  "main.css": "/static/css/main.104e5754.chunk.css",
-  "main.js": "/static/js/main.85d03c59.chunk.js",
-  "main.js.map": "/static/js/main.85d03c59.chunk.js.map",
+  "main.css": "/static/css/main.01acef4d.chunk.css",
+  "main.js": "/static/js/main.1e82bc90.chunk.js",
+  "main.js.map": "/static/js/main.1e82bc90.chunk.js.map",
   "static/js/1.08fa7ace.chunk.js": "/static/js/1.08fa7ace.chunk.js",
   "static/js/1.08fa7ace.chunk.js.map": "/static/js/1.08fa7ace.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.104e5754.chunk.css.map": "/static/css/main.104e5754.chunk.css.map",
+  "static/media/home-screen.css": "/static/media/pink-smoke.6986244a.jpg",
+  "static/css/main.01acef4d.chunk.css.map": "/static/css/main.01acef4d.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.8121019ee3caf5805cd6d83f06678842.js": "/precache-manifest.8121019ee3caf5805cd6d83f06678842.js",
+  "precache-manifest.a5652c3a00daa83b63c2e7c1ee60aba0.js": "/precache-manifest.a5652c3a00daa83b63c2e7c1ee60aba0.js",
   "service-worker.js": "/service-worker.js"
 }
